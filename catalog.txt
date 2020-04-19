@@ -1,2 +1,4 @@
 Med-bot
+Teach-bot
+Program-bot
 Chat-bot
